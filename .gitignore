@@ -1,0 +1,88 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Hardhat files
+cache/
+artifacts/
+typechain-types/
+
+# Testing
+coverage/
+coverage.json
+.coverage_artifacts/
+.coverage_cache/
+.coverage_contracts/
+
+# TypeScript
+dist/
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# Build outputs
+build/
+out/
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Gas reports
+gas-report
+gasReporterOutput.json
+
+# Deployment artifacts
+deployments/
+.openzeppelin/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Generated documentation
+docs/generated/
+
+# Examples output
+examples/
+!automation/examples/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+*.bak
+*_backup.*
+*_old.*
+
+# Video files (keep original but ignore copies)
+*.mp4.bak
+index_backup.html
+
+# Vercel
+.vercel
+vercel.json
+
+# Don't ignore these
+!.gitignore
+!.env.example
