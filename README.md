@@ -27,6 +27,10 @@
 
 This project demonstrates a complete privacy-preserving clinical trial management system built on FHEVM (Fully Homomorphic Encryption Virtual Machine). It showcases how sensitive medical data can be processed on-chain while maintaining complete privacy through encryption.
 
+Video Demo ：https://streamable.com/argo1h or demo1.mp4+demo2.mp4
+
+Demo Live : https://privacypreserving.vercel.app/
+
 ### Problem Statement
 
 Traditional clinical trials face significant privacy challenges:
