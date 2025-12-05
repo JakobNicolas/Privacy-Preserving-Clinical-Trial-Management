@@ -497,7 +497,7 @@ This project includes a comprehensive demo video for the Zama Bounty Track Decem
 
 ### Video Resources
 
-**📹 Video File**: `ConfidentialDrugTrial.mp4`
+**📹 Video File**: `demo1.mp4 demo2.mp4`
 - Duration: 60 seconds
 - Format: 1080p MP4 with narration
 - Demonstrates all key FHEVM concepts
