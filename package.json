@@ -1,0 +1,22 @@
+{
+  "name": "confidential-drug-trial-platform",
+  "version": "1.0.0",
+  "description": "Privacy-Preserving Clinical Research Platform using FHE",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 3000 -c-1 --cors",
+    "dev": "npx http-server . -p 3000 -c-1 --cors"
+  },
+  "keywords": [
+    "blockchain",
+    "fhe",
+    "clinical-trial",
+    "privacy",
+    "healthcare",
+    "ethereum"
+  ],
+  "author": "Clinical Research Platform",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
